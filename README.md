@@ -2,7 +2,7 @@
 
 Veri bilimi ve yapay zekâ eğitimim boyunca tamamladığım projeler. Her klasörde Jupyter defteri, kullanılan veri (lisansı ve boyutu uygun olanlar) ve kısa bir açıklama bulunur.
 
-**Sibel Er** · [LinkedIn](https://www.linkedin.com/in/sibel-e-b8166b162) · [Kaggle](https://www.kaggle.com/sibeler) · [Hugging Face](https://huggingface.co/Sibeller) · [Kişisel web sitem](https://ser2025.github.io/Aurora_Website/)
+**Sibel Er** · [LinkedIn](https://www.linkedin.com/in/sibel-e-b8166b162) · [Kaggle](https://www.kaggle.com/sibeler) · [Hugging Face](https://huggingface.co/Sibeller) · [Kişisel web sitem](https://ser2025.github.io/)
 
 ## Projeler
 
